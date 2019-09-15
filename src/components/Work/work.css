@@ -1,0 +1,39 @@
+#programming-title {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 1.3em;
+    background-color:#FFFF00;
+    text-align: center;
+}
+
+.work-title {
+    font-weight: bold;
+}
+
+#kw-image {
+    width:40vw;
+    margin-bottom:2%;
+}
+
+#work-1 {
+    margin-bottom:30%;
+}
+
+#work-2 {
+    margin-bottom:30%;
+}
+
+#work-3 {
+    margin-bottom:30%;
+}
+
+#enigma-image {
+    width:40vw;
+}
+
+#piano-image {
+    height: 50vh;
+}
+
+#book-image {
+    width: 25vw;
+}

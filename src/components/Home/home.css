@@ -1,0 +1,52 @@
+#left-panel {
+    left:0;
+    top: 0;
+    bottom: 0;
+    float:left;
+    width:40%;
+    height:100%;
+    position: fixed;
+    background-image: url('../../images/blog.jpeg');
+    background-position: center;
+    background-size:cover;
+    padding-top:2%;
+}
+
+.right-panel {
+    float: right;
+    margin-right:10%;
+    width:40%;
+    overflow: hidden;
+}
+
+#title-card {
+    width:50%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    float:right;
+    background-color:rgba(255, 255, 255, 0.5);
+    padding:2%;
+}
+
+#title-text-left-panel {
+    text-align: center;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 1.5em;
+}
+
+#top-picture-left {
+    width:40vw;
+    height:50vh;
+    -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.title-about {
+    text-align: center;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 1.3em;
+    background-color:#FFFF00;
+}
